@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import rahulshettyacademy.TestComponents.BaseTest;
 import rahulshettyacademy.pageobjects.ProductCatalogPage;
-
+//yes changes aer
 public class ErrorValidationsTest extends BaseTest{
 
 	@Test
